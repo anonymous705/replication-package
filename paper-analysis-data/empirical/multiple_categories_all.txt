@@ -1,0 +1,10 @@
+/home/aluno/Documentos/resultados/ALL_DATASET.csv
+**************************************************
+2 categories of defects observed for 11.31787% scripts (script proportion)
+3 categories of defects observed for 7.48909% scripts (script proportion)
+4 categories of defects observed for 4.33418% scripts (script proportion)
+5 categories of defects observed for 1.58511% scripts (script proportion)
+6 categories of defects observed for 0.36756% scripts (script proportion)
+7 categories of defects observed for 0.18378% scripts (script proportion)
+8 categories of defects observed for 0.0% scripts (script proportion)
+**************************************************

@@ -1,0 +1,49 @@
+Dataset name: REPLICATIONDOCFIX_CATEG_OUTPUT_FINAL.csv
+==================================================
+CATEGORY: CONDITIONAL_DEFECT
+ - SCRIPT COUNT: 1007
+ - SCRIPT PROP(%): 9.256
+*************************
+CATEGORY: CONFIG_DEFECT
+ - SCRIPT COUNT: 1716
+ - SCRIPT PROP(%): 15.774
+*************************
+CATEGORY: DEP_DEFECT
+ - SCRIPT COUNT: 1519
+ - SCRIPT PROP(%): 13.963000000000001
+*************************
+CATEGORY: DOC_DEFECT
+ - SCRIPT COUNT: 1171
+ - SCRIPT PROP(%): 10.764
+*************************
+CATEGORY: IDEM_DEFECT
+ - SCRIPT COUNT: 27
+ - SCRIPT PROP(%): 0.248
+*************************
+CATEGORY: SECURITY_DEFECT
+ - SCRIPT COUNT: 143
+ - SCRIPT PROP(%): 1.314
+*************************
+CATEGORY: SERVICE_DEFECT
+ - SCRIPT COUNT: 1146
+ - SCRIPT PROP(%): 10.534
+*************************
+CATEGORY: SYNTAX_DEFECT
+ - SCRIPT COUNT: 912
+ - SCRIPT PROP(%): 8.383000000000001
+*************************
+IaC scripts with at least one defect category: 2870
+IaC scripts with at least one defect category (%): 26.381
+==================================================
+Defect Proportion per category (% of all commits that contain the category):
+CONDITIONAL_DEFECT: 6.03518%
+CONFIG_DEFECT: 10.08737%
+DEP_DEFECT: 9.75974%
+DOC_DEFECT: 6.51799%
+IDEM_DEFECT: 0.10921%
+SECURITY_DEFECT: 0.56328%
+SERVICE_DEFECT: 6.25359%
+SYNTAX_DEFECT: 3.29348%
+Total Defects (% of all commits): 18.08829%
+Total number of defect commits: 3147
+==================================================

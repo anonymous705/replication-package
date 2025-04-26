@@ -1,0 +1,10 @@
+/home/aluno/Documentos/resultados/company2-all-repos/csv/acid-output/COMPANY2CRITERIADOCFIX_CATEG_OUTPUT_FINAL.csv
+**************************************************
+2 categories of defects observed for 8.26709% scripts (script proportion)
+3 categories of defects observed for 5.40541% scripts (script proportion)
+4 categories of defects observed for 2.38474% scripts (script proportion)
+5 categories of defects observed for 0.63593% scripts (script proportion)
+6 categories of defects observed for 0.0% scripts (script proportion)
+7 categories of defects observed for 0.0% scripts (script proportion)
+8 categories of defects observed for 0.0% scripts (script proportion)
+**************************************************

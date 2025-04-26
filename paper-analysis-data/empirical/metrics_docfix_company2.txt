@@ -1,0 +1,44 @@
+Dataset name: COMPANY2CRITERIADOCFIX_CATEG_OUTPUT_FINAL.csv
+==================================================
+CATEGORY: CONDITIONAL_DEFECT
+ - SCRIPT COUNT: 30
+ - SCRIPT PROP(%): 4.769
+*************************
+CATEGORY: CONFIG_DEFECT
+ - SCRIPT COUNT: 108
+ - SCRIPT PROP(%): 17.169999999999998
+*************************
+CATEGORY: DEP_DEFECT
+ - SCRIPT COUNT: 51
+ - SCRIPT PROP(%): 8.108
+*************************
+CATEGORY: DOC_DEFECT
+ - SCRIPT COUNT: 41
+ - SCRIPT PROP(%): 6.518
+*************************
+CATEGORY: SECURITY_DEFECT
+ - SCRIPT COUNT: 5
+ - SCRIPT PROP(%): 0.795
+*************************
+CATEGORY: SERVICE_DEFECT
+ - SCRIPT COUNT: 34
+ - SCRIPT PROP(%): 5.405
+*************************
+CATEGORY: SYNTAX_DEFECT
+ - SCRIPT COUNT: 28
+ - SCRIPT PROP(%): 4.452
+*************************
+IaC scripts with at least one defect category: 128
+IaC scripts with at least one defect category (%): 20.349999999999998
+==================================================
+Defect Proportion per category (% of all commits that contain the category):
+CONDITIONAL_DEFECT: 4.30368%
+CONFIG_DEFECT: 10.54159%
+DEP_DEFECT: 7.3501%
+DOC_DEFECT: 5.27079%
+SECURITY_DEFECT: 0.38685%
+SERVICE_DEFECT: 2.61122%
+SYNTAX_DEFECT: 2.27273%
+Total Defects (% of all commits): 16.05416%
+Total number of defect commits: 332
+==================================================

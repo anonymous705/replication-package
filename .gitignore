@@ -1,0 +1,10 @@
+*/clone_logs.csv
+dataset/*
+ACID/dataset
+criterias/*
+csv/*
+*/__pycache__
+run_acid.log
+execution_log.txt
+criterias.log
+venv/

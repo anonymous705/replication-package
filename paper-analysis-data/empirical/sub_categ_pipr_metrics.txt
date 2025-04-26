@@ -1,0 +1,17 @@
+Defect Proportion per subcategory (% of all commits that contain the subcategory):
+CD_CACHE_DEFECT: 1.19048%
+CD_CREDENTIAL_DEFECT: 41.07143%
+CD_FILE_SYSTEM_DEFECT: 5.28274%
+CD_NETWORK_DEFECT: 65.84821%
+CD_STORAGE_DEFECT: 4.38988%
+Total Defects (% of all commits): 100.0%
+Total number of defect commits: 1344
+==================================================
+CSV File Generated: /home/aluno/Documentos/resultados/PIPr/csv/acid-output/REPLICATION_CONFIG_SUB_CATEG_OUTPUT_FINAL.csv
+Defect Proportion per subcategory (% of all commits that contain the subcategory):
+SERVICE_PANIC_DEFECT: 19.76103%
+SERVICE_RESOURCE_DEFECT: 85.75368%
+Total Defects (% of all commits): 100.0%
+Total number of defect commits: 1088
+==================================================
+CSV File Generated: /home/aluno/Documentos/resultados/PIPr/csv/acid-output/REPLICATION_SERVICE_SUB_CATEG_OUTPUT_FINAL.csv
